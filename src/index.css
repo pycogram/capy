@@ -270,10 +270,6 @@ footer p{
   }
 }
 @media screen and (max-width: 630px){
-  body{
-    background-repeat: repeat;
-    background-size: 700px;
-  }
   h1, h2{
     font-size: 25px;
   }

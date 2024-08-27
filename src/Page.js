@@ -22,10 +22,10 @@ export function Page({objIconPro, objImgPro, objGifPro}) {
         <div>
             <header className="socialLink">
                 <span>
-                    <a href="https://t.me/" target="_blank"><img src={tg} alt="telegram link"></img></a>   
+                    <a href="https://t.me/CapybaraCTO" target="_blank"><img src={tg} alt="telegram link"></img></a>   
                 </span>
                 <span>
-                    <a href="https://x.com/troncapybara" target="_blank"><img src={x} alt="twitter link"></img></a>
+                    <a href="https://x.com/capybaratronCTO" target="_blank"><img src={x} alt="twitter link"></img></a>
                 </span>
                 <span>
                     <a href="" target="_blank"><img src={ray} alt="sunswap buy link"></img></a>

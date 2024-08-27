@@ -295,7 +295,7 @@ footer p{
     font-size: 22px;
   }
   .caSection div{
-    width: 90%;
+    width: 70%;
     overflow: hidden;
     padding: 0.1rem 0.4rem;
   }
@@ -304,6 +304,7 @@ footer p{
   }
   .caSection div p{
     font-size: 15px;
+    text-align: center;
   }
   .aboutSection .about h4{
     width: 90%;
